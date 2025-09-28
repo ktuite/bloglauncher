@@ -28,3 +28,7 @@ python fetch_toot_thread.py https://mastodon.social/@user/115260608425298248
 Notes
 - This script only works for public toots (the instance must return the status via its unauthenticated API).
 - `fetch_toot_thread.py` downloads media into an `assets/<status_id>/` folder next to the generated Markdown file and rewrites links accordingly.
+
+# Disclaimer
+
+Fellow humans! Please note all of the code here was written by other computers, not humans, though I did spend several hours handholding the computers to get them to produce this. 
